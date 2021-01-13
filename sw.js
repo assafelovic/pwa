@@ -32,7 +32,7 @@ self.addEventListener('push', (e) => {
 
   const title = 'Houzz Pro';
   const options = {
-    body: 'Yay it works.',
+    body: e.data.text(),
     icon: '/icon/logo.png',
     badge: '/icon/logo.png'
   };
