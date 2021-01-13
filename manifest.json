@@ -1,0 +1,15 @@
+{
+  "background_color": "#2495c8",
+  "description": "Stay connected with your Houzz Pro and projects",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./icon/logo.png",
+      "sizes": "225x225",
+      "type": "image/png"
+    }
+  ],
+  "name": "Houzz Pro - Client Dashboard",
+  "short_name": "Client Dashboard",
+  "start_url": "."
+}
