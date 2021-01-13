@@ -14,7 +14,8 @@ if ('serviceWorker' in navigator) {
           applicationServerKey: urlBase64ToUint8Array(SERVER_KEY)
         }
         return registration.pushManager.subscribe(options);
-      }).then((pushSubscription) => { })
+      }).then((pushSubscription) => {
+      })
       console.log('Service Worker Registered'); 
     });
 }
