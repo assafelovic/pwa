@@ -13,4 +13,4 @@ To learn more: https://developers.google.com/web/fundamentals/codelabs/push-noti
 ## References
 ### PWA Medium Blog: https://medium.com/progressivewebapps
 ### Documentation: https://web.dev/progressive-web-apps/ , https://developers.google.com/web/ilt/pwa
-### Create relevant icon image sizes: https://cthedot.de/icongen/
+### Create relevant icon image sizes: https://github.com/ezzabuzaid/pwa-icon-generator
