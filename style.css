@@ -1,13 +1,13 @@
 body {
-  height: inherit;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
+  margin: 0
+}
+
+header {
+  background-color: #21a1dd
 }
 
 button {
-  background-color: #2495c8;
+  background-color: #21a1dd;
   border: none;
   color: white;
   padding: 15px 32px;
